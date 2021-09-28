@@ -1,7 +1,5 @@
 
-![GitHub Logo](/photo.jpg)
-Format: ![Alt Text](url)
-
+![GitHub Logo](/photo.jpg | width=100)
 ### Parcours scolaire
 
     • 2017 – Notre Dame's High School in Boulogne Billancourt
