@@ -12,8 +12,9 @@ Born 10/10/1999 |
         ◦ Scientific baccalaureate -Very good mention 
 
    • 2017/2020 – Fénelon Sainte Marie's High School in Paris
-        ◦ CPGE MPSI - MP- 5/2
-   • 2020/2024 – Ecole Centrale Lill
+         ◦ CPGE MPSI - MP- 5/2
+   
+   • 2020/2024 – Ecole Centrale Lille
 
    • 2020/2021 – Bachelor of mathématics with the faculty of Lille 
        
