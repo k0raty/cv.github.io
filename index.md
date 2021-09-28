@@ -1,6 +1,5 @@
 
-![GitHub Logo](/photo.jpg | width=100)
-### Parcours scolaire
+<img src="/photo.png" width="100" height="100">### Parcours scolaire
 
     • 2017 – Notre Dame's High School in Boulogne Billancourt
         ◦ Scientific baccalaureate -Very good mention 
