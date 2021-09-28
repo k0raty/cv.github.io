@@ -8,16 +8,16 @@ Born 10/10/1999 |
 
 ### Parcours scolaire
 
-    • 2017 – Notre Dame's High School in Boulogne Billancourt
+   • 2017 – Notre Dame's High School in Boulogne Billancourt
         ◦ Scientific baccalaureate -Very good mention 
 
-    • 2017/2020 – Fénelon Sainte Marie's High School in Paris
+   • 2017/2020 – Fénelon Sainte Marie's High School in Paris
         ◦ CPGE MPSI - MP- 5/2
-    • 2020/2024 – Ecole Centrale Lille
-   
-    • 2020/2021 – Bachelor of mathématics with the faculty of Lille 
+   • 2020/2024 – Ecole Centrale Lill
+
+   • 2020/2021 – Bachelor of mathématics with the faculty of Lille 
        
-    • 2021/2022 – M1 Master Data Science assumed in English with Centrale Lille
+   • 2021/2022 – M1 Master Data Science assumed in English with Centrale Lille
 
     
 
