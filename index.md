@@ -1,5 +1,5 @@
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/photo.jpg)
 Format: ![Alt Text](url)
 
 ### Parcours scolaire
