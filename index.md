@@ -1,5 +1,12 @@
 
-<img src="/photo.png" width="100" height="100">### Parcours scolaire
+<img src="https://user-images.githubusercontent.com/91521656/135161079-9321921e-a810-43b9-9b89-004a31072fac.jpg" width="150" height="200"> 
+ 
+ Davi Antony | 
+------------ | 
+Born 10/10/1999 | 
+7 avenue Henri Fontaine, Garches. |
+
+### Parcours scolaire
 
     • 2017 – Notre Dame's High School in Boulogne Billancourt
         ◦ Scientific baccalaureate -Very good mention 
