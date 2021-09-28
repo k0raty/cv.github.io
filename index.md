@@ -17,7 +17,7 @@ Born 10/10/1999 |
    
     • 2020/2021 – Bachelor of mathématics with the faculty of Lille 
        
-    • 2021/2022 – M1 Master Data Science assumed in English with Centrale Lille/Faculty of Lille
+    • 2021/2022 – M1 Master Data Science assumed in English with Centrale Lille
 
     
 
